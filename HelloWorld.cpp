@@ -31,10 +31,7 @@ int main(){
     std::string Food = "Pizza";
     
     std::cout << "Hello " << name << '\n';
-    std::cout << "You are " << age << " years oldD" ;
-
-    
-    
+    std::cout << "You are " << age << " years old" ;
 
     return 0;
 }
