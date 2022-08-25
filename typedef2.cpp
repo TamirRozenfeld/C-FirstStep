@@ -7,7 +7,8 @@ typedef int number;
 
 int main(){
 
-   //pairlist_t pairlist;
+   using test_t = std::string;
+   using number = int;
 
     text_t firstName = "Tamir";
     number age = 30;
