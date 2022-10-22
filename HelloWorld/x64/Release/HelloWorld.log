@@ -1,3 +1,0 @@
-﻿  HelloWorld.cpp
-C:\Users\tamir\OneDrive\Desktop\C++projects\HelloWorld\HelloWorld.cpp(8,6): error C2220: the following warning is treated as an error
-C:\Users\tamir\OneDrive\Desktop\C++projects\HelloWorld\HelloWorld.cpp(8,6): warning C4101: 'y': unreferenced local variable
